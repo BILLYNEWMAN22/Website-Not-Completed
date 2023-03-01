@@ -1,0 +1,2 @@
+This Project isnt't yet finished as you will find out, but it does show I have some basic
+understanding of HTML and CSS and also Bootstrap and Flask within the Python language.

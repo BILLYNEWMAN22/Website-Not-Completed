@@ -1,0 +1,63 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: white;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.row h1 {
+
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    alignment: right;
+    font-weight: bold;
+}
+
+
+#features {
+    text-align: center;
+    padding: 50px 100px 50px 100px;
+
+
+}
+
+#features h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+#features p {
+    color: #8f8f8f;
+}
+
+#top-col:hover {
+    color: #ff4c68;
+}
+#top-col {
+    color: #ef8172;
+}
+
+#mid-col:hover {
+    color: #ff4c68;
+}
+#mid-col {
+    color: #ef8172;
+}
+
+
+#bot-col:hover {
+    color: #ff4c68;
+}
+#bot-col {
+    color: #ef8172;
+}
